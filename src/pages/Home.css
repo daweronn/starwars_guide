@@ -1,0 +1,19 @@
+@font-face {
+    font-family: starjedi;
+    src: url(../data/Starjedi.ttf);
+}
+
+h1 {
+    color: #f7d354;
+    font-family: starjedi;
+    text-align: center;
+    font-size: 6rem;
+}
+
+div .home {
+    text-align: center;
+    font-size: 3rem;
+    padding: 4rem;
+    display: flex;
+    
+}

@@ -1,0 +1,36 @@
+.detail-page {
+    max-width: 40%;
+    background-color: #111;
+    margin-bottom: 1rem;
+    flex-direction: column;
+    display: flex;
+    margin: 2rem auto;
+    color: #fff;
+    text-align: center;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: #111;
+}
+
+h5 {
+    color: #f7d354;
+    text-align: center;
+    font-size: 6rem;
+}
+
+.info {
+    max-width: 600px;
+    margin-top: 1,5rem;
+    margin-bottom: 1.5rem;
+    flex-direction: column;
+    display: inline-flex;
+    margin: 2rem auto;
+    color: #fff;
+    text-align: left;
+
+}
+
+h3 {
+    margin-bottom: 0.5rem;
+}

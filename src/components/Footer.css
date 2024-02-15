@@ -1,0 +1,16 @@
+@font-face {
+    font-family: starjedi;
+    src: url(../data/Starjedi.ttf);
+}
+
+.footer {
+    background-color: #000;
+    color: #f7d354;
+    padding: 1em;
+    text-align: center;
+    font-family: starjedi;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
